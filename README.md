@@ -1,2 +1,2 @@
 # TechDose
-Codes for my YouTube videos
+Codes for my YouTube videos.
